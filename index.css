@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-image: url("./assets/MusicNote1.png");
+}
+
+#div1 {
+    background-color: darkgreen;
+    padding: 0.5rem;
+    border-width: 0.5rem;
+    border-color: gray;
+    border-style: dashed;
+}
+
+#div2 {
+    background-color: cadetblue;
+    padding: 0.5rem;
+    border-width: 0.5rem;
+    border-color: gray;
+    border-style: groove;
+}
+
+#div3 {
+    background-color: brown;
+    padding: 0.5rem;
+    border-width: 0.5rem;
+    border-color: gray;
+    border-style: groove;
+}
